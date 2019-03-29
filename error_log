@@ -1,0 +1,27 @@
+[08-Jan-2019 14:47:19 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:47:25 America/Chicago] PHP Notice:  Use of undefined constant DEFAULT_RESPONSE - assumed 'DEFAULT_RESPONSE' in /home/yadahrob/public_html/percepter/api/definitions.php on line 16
+[08-Jan-2019 14:47:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yadahrob/public_html/percepter/api/definitions.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 105
+[08-Jan-2019 14:47:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yadahrob/public_html/percepter/api/definitions.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 91
+[08-Jan-2019 14:48:00 America/Chicago] PHP Notice:  Use of undefined constant DEFAULT_RESPONSE - assumed 'DEFAULT_RESPONSE' in /home/yadahrob/public_html/percepter/api/definitions.php on line 16
+[08-Jan-2019 14:48:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yadahrob/public_html/percepter/api/definitions.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 105
+[08-Jan-2019 14:48:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yadahrob/public_html/percepter/api/definitions.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 91
+[08-Jan-2019 14:48:03 America/Chicago] PHP Notice:  Use of undefined constant DEFAULT_RESPONSE - assumed 'DEFAULT_RESPONSE' in /home/yadahrob/public_html/percepter/api/definitions.php on line 16
+[08-Jan-2019 14:48:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yadahrob/public_html/percepter/api/definitions.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 105
+[08-Jan-2019 14:48:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yadahrob/public_html/percepter/api/definitions.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 91
+[08-Jan-2019 14:48:21 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:48:34 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:48:50 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:48:58 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:49:51 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:49:56 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:51:17 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:51:20 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:51:23 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:51:49 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:52:51 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:52:51 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 14:53:03 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/views/default/header.php on line 8
+[08-Jan-2019 15:04:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function ig_get_profile() in /home/yadahrob/public_html/percepter/profile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/yadahrob/public_html/percepter/profile.php on line 28

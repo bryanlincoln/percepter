@@ -1,0 +1,12 @@
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: .
+
+env_variables:
+    # Replace USER, PASSWORD, DATABASE, and CONNECTION_NAME with the
+    # values obtained when configuring your Cloud SQL instance.
+    MYSQL_USER: percepter
+    MYSQL_PASSWORD: qu3senh4fort3
+    MYSQL_DSN: mysql:dbname=percepter;unix_socket=/cloudsql/percepter:southamerica-east1:percepter-db

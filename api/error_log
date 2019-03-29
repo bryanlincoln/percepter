@@ -1,0 +1,2 @@
+[08-Jan-2019 14:52:12 America/Chicago] PHP Notice:  Undefined index: name in /home/yadahrob/public_html/percepter/api/index.php on line 16
+[08-Jan-2019 14:52:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yadahrob/public_html/percepter/api/index.php:16) in /home/yadahrob/public_html/percepter/api/definitions.php on line 92
